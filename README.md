@@ -533,6 +533,7 @@ _Libraries for preprocessing CSS files._
 
 - [bitmap](https://github.com/kelindar/bitmap) - Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go.
 - [bitset](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets.
+- [intset](https://github.com/karlseguin/intset) - A specialized set for integers or runes.
 
 ### Bloom and Cuckoo Filters
 
